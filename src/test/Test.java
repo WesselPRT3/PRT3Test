@@ -19,6 +19,8 @@ public class Test {
         Foo.Bar bar = foo.new Bar(4,1);
         
         bar.print();
+        System.out.println("hoi!");
+        bar.print();
         
     }
     
